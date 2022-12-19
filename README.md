@@ -2,3 +2,4 @@
 - He decidido modificar el programa para que no reciba parametros si no que se introducen por consola.
 - El fichero se genera bajo la carpeta del usuario actual que lanza el fichero jar o, si por el contrario, se lanza desde el IDE se genera bajo la carpeta padre del proyecto.
 - La única dependencia utilizada está añadida en el POM y es "mysql-connector-j".
+- La base de datos utilizada es MySQL levantada desde XAMPP en el puerto 3306.
