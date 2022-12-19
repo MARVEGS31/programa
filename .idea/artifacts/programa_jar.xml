@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="programa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/programa_jar</output-path>
+    <root id="archive" name="programa.jar">
+      <element id="module-output" name="programa" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
