@@ -1,0 +1,4 @@
+- El programa se ha de ejecutar, una vez está lanzada y cargada de datos la base de datos, descargando el jar situado en "programa/out/artifacts/programa_jar/programa.jar" y, teniendo java instalado, abrir una línea de comando o CMD y ejecutar: java -jar {Ruta_de_tu_jar_descargado}. Aunque también se puede probar desde el propio IDE con las configuraciones de run por defecto.
+- He decidido modificar el programa para que no reciba parametros si no que se introducen por consola.
+- El fichero se genera bajo la carpeta del usuario actual que lanza el fichero jar o, si por el contrario, se lanza desde el IDE se genera bajo la carpeta padre del proyecto.
+- La única dependencia utilizada está añadida en el POM y es "mysql-connector-j".
